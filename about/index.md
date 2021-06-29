@@ -6,7 +6,7 @@ date: 2021-06-29
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Hello!</b></a> Now updating my github pages.</center>
+<center><a href="http://gyu00.github.io/Moon"><b>Hello!</b></a> Now updating my github pages.</center>
 
 ## About me
 * Minimal, you can focus on your content
