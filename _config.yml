@@ -1,10 +1,10 @@
 # Site
-title:              GyuYoung
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              GyuYoung (곽규영)
+bio:                'My First Blog..'
+description:        "이것저것 올려보는 페이지."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/Profile.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_KR
